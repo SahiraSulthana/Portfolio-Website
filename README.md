@@ -6,11 +6,11 @@
 
 <h2>Features:</h2>
 <ul>
-  Responsive Design: Works on mobile, tablet, and desktop devices  
-  Interactive UI: Smooth scrolling and modern layout  
-  Projects Showcase: Displays my real-time projects  
-  Clean Design: Minimal and user-friendly interface  
-  Contact Section: Easy way to connect
+  <li>Responsive Design: Works on mobile, tablet, and desktop devices</li> 
+  <li>Interactive UI: Smooth scrolling and modern layout</li>  
+  <li>Projects Showcase: Displays my real-time projects</li>  
+  <li>Clean Design: Minimal and user-friendly interface</li> 
+  <li>Contact Section: Easy way to connect</li>
 </ul> 
 
 <h2>Technologies Used:</h2>

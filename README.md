@@ -5,17 +5,20 @@
 <p>This project showcases my <b>Personal Portfolio Website</b> designed to present my skills, projects, and contact information in a clean and interactive way. It is built using modern <b>Web Technologies such as HTML, CSS, and JavaScript</b> with a focus on responsive design and smooth user experience.</p>
 
 <h2>Features:</h2>
-<ul>Responsive Design: Works on mobile, tablet, and desktop devices  
-Interactive UI: Smooth scrolling and modern layout  
-Projects Showcase: Displays my real-time projects  
-Clean Design: Minimal and user-friendly interface  
-Contact Section: Easy way to connect </ul> 
+<ul>
+  Responsive Design: Works on mobile, tablet, and desktop devices  
+  Interactive UI: Smooth scrolling and modern layout  
+  Projects Showcase: Displays my real-time projects  
+  Clean Design: Minimal and user-friendly interface  
+  Contact Section: Easy way to connect
+</ul> 
 
-Technologies Used:
-HTML5  
-CSS3  
-JavaScript  
-
+<h2>Technologies Used:</h2>
+<ul>
+  HTML5  
+  CSS3  
+  JavaScript  
+</ul>
 Future Enhancements:
 Add dark mode  
 Improve animations  

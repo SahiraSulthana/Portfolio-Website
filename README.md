@@ -16,8 +16,8 @@
 <h2>Technologies Used:</h2>
 <ul>
   <li><b>HTML5</b></li>
-  <li><b>CSS3</b>(with keyframe animations)</li>
-  <li><b>JavaScript</b>(DOM manipulation and event handling)</li>   
+  <li><b>CSS3</b> (with keyframe animations)</li>
+  <li><b>JavaScript</b> (DOM manipulation and event handling)</li>   
 </ul>
 
 <h2>Future Enhancements:</h2>
@@ -27,5 +27,5 @@
   <li>Include live demo and GitHub links for projects </li> 
   <li>Enhance UI with animations and transitions</li>  
   <li>Add typing animation in the hero section </li> 
-</ul>
-- Optimize for SEO and performance 
+  <li>Optimize for SEO and performance</li>
+</ul> 

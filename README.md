@@ -6,20 +6,21 @@
 
 <h2>Features:</h2>
 <ul>
-  <li>Responsive Design: Works on mobile, tablet, and desktop devices</li> 
-  <li>Interactive UI: Smooth scrolling and modern layout</li>  
-  <li>Projects Showcase: Displays my real-time projects</li>  
-  <li>Clean Design: Minimal and user-friendly interface</li> 
-  <li>Contact Section: Easy way to connect</li>
+  <li><b>Responsive Design:</b> Works on mobile, tablet, and desktop devices</li> 
+  <li><b>Interactive UI:</b> Smooth scrolling and modern layout</li>  
+  <li><b>Projects Showcase:</b> Displays my real-time projects</li>  
+  <li><b>Clean Design:</b> Minimal and user-friendly interface</li> 
+  <li><b>Contact Section:</b> Easy way to connect</li>
 </ul> 
 
 <h2>Technologies Used:</h2>
 <ul>
-  HTML5  
-  CSS3  
-  JavaScript  
+  <li><b>HTML5</b></li>
+  <li><b>CSS3 (with keyframe animations)</b></li>
+  <li><b>JavaScript (DOM manipulation and event handling) </b></li>   
 </ul>
-Future Enhancements:
+
+<h2>Future Enhancements:</h2>
 Add dark mode  
 Improve animations  
 Integrate backend for contact form  

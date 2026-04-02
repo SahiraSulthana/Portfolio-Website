@@ -16,11 +16,16 @@
 <h2>Technologies Used:</h2>
 <ul>
   <li><b>HTML5</b></li>
-  <li><b>CSS3 (with keyframe animations)</b></li>
-  <li><b>JavaScript (DOM manipulation and event handling) </b></li>   
+  <li><b>CSS3</b>(with keyframe animations)</li>
+  <li><b>JavaScript</b>(DOM manipulation and event handling)</li>   
 </ul>
 
 <h2>Future Enhancements:</h2>
-Add dark mode  
-Improve animations  
-Integrate backend for contact form  
+<ul>
+  <li>Implement backend functionality for the contact form </li> 
+  <li>Add dark mode toggle feature </li>
+  <li>Include live demo and GitHub links for projects </li> 
+  <li>Enhance UI with animations and transitions</li>  
+  <li>Add typing animation in the hero section </li> 
+</ul>
+- Optimize for SEO and performance 

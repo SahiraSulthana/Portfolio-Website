@@ -12,7 +12,7 @@
   <li><b>Clean Design:</b> Minimal and user-friendly interface</li> 
   <li><b>Contact Section:</b> Easy way to connect</li>
 </ul> 
-<h3>Featured Portfolio</h3>
+<h3>Projects</h3>
 <img width="1801" height="819" alt="image" src="https://github.com/user-attachments/assets/b758239e-bec6-43c8-95ad-c6c0b2cba30b" />
 <h3>About Me</h3>
 <img width="1806" height="618" alt="image" src="https://github.com/user-attachments/assets/e928b267-6824-478e-9f43-718133b0c2d3" />
